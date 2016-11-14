@@ -58,6 +58,7 @@ tBodyAccMean
 tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
+
 --------------------------------------------------------------------------------------------
 
 SubjectID - numeric ID from 1:30 that accounts for the participant in the study
